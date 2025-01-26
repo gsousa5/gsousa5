@@ -1,20 +1,47 @@
-# About Me
+# Hi there 👋
 
-Hello, I am [Gonçalo Sousa]([https://](https://github.com/gsousa5))!
+Welcome to my GitHub profile! I'm **Gonçalo**, a passionate Software Engineering student, currently in my final year at the **University of Trás-os-Montes e Alto Douro**. 🚀
 
-I am a technology and programming enthusiast, always looking for new challenges and learning opportunities. Currently, I am in my second year of Software Engineering degree at [Universidade de Trás-os-Montes e Alto Douro](#).
+## 🌟 About Me
+- 🎓 **Academic Focus**: Specializing in software engineering with a strong interest in **cybersecurity** and **project management**.
+- 📜 Currently pursuing an English certification to expand my global communication skills.
+- 🎯 **Future Goals**: Dive deeper into **cybersecurity** and **project management**, looking to persue a MBA.
 
-My goal is to leverage my skills and knowledge to build innovative and user-friendly software solutions, collaborate with talented and passionate developers, and make a positive impact in the tech community..
+---
 
-## Skills and Tools
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40"/>
-</p>
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+**Frameworks & Libraries:**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📈 GitHub Stats
+
+![Gonçalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)](https://github.com/YourUsername/github-readme-stats)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gonçalo-sousa-3b62002b2)   
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goncalomsousa.vlm@gmail.com)
+
+---
+
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me to collaborate. 🌟
