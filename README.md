@@ -35,7 +35,7 @@ I have a strong foundation in computer science and I am currently specializing i
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![FHIR](https://img.shields.io/badge/-FHIR-firebrick?style=flat-square) *(Remove if not applicable yet)*
+![FHIR](https://img.shields.io/badge/-FHIR-firebrick?style=flat-square)
 
 **Tools & Environment**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
