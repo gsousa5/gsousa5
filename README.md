@@ -52,9 +52,8 @@ I have a strong foundation in computer science and I am currently specializing i
 ---
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=gsousa5&show_icons=true&theme=radical" alt="Gonçalo's Github Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsousa5&layout=compact&theme=radical" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gsousa5&show_icons=true&theme=radical" alt="Gonçalo's Github Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsousa5&layout=compact&theme=radical" alt="Top Langs" height="150" />
 </p>
-
 
 Thanks for visiting my profile! Feel free to explore my repositories and connect with me to collaborate. 🌟
